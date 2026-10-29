@@ -97,7 +97,7 @@
 			utils-common,utils-common-api,utils-conditional,utils-conditional-api,utils-config,utils-config-api,utils-errors,utils-logging,utils-logging-api,utils-maven3-api,utils-net,utils-net-api</hpi.bundledArtifacts>
 		<!-- VERSIONS -->
 		<revision>1</revision>
-		<utils-bom-revision>2.0.1</utils-bom-revision>
+		<utils-bom-revision>2.0.2</utils-bom-revision>
 		<changelist>999999</changelist>
 		<!-- ARTIFACT VERSIONS - BOMs -->
 		<jenkins-tools-bom-version>2.580.x</jenkins-tools-bom-version>
