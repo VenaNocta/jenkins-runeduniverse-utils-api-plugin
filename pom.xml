@@ -28,7 +28,7 @@
 
 	<groupId>org.jenkins-ci.plugins</groupId>
 	<artifactId>runeduniverse-utils-api</artifactId>
-	<version>${revision}-${utils-bom-revision}-${changelist}</version>
+	<version>${utils-bom-revision}-${revision}-${changelist}</version>
 	<packaging>hpi</packaging>
 
 	<name>RunedUniverse Utils API</name>
